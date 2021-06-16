@@ -1,3 +1,8 @@
+# Predicting customer churn with Spark
+Define what customer would churn from Sparkify's online services. The project uses PySpark to engineer features and to build classification model to predict churn.
+
+![Predicting customer chrun](https://github.com/rabadzhiyski/SparkProject/blob/main/Sparkify_.png "Sparkify")
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rabadzhiyski/ProjectPortfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
