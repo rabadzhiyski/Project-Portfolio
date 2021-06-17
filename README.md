@@ -3,7 +3,10 @@
 # [Project 1: Predicting Customer Churn with Spark](https://github.com/rabadzhiyski/SparkProject)
 Define what customer would churn from Sparkify's online services. I used PySpark on IBM Watson cluster to engineer features and to build classification model to predict churn. [Blog post also available.](https://plamen-rabadzhiyski.medium.com/sparkify-make-your-customers-stay-e7a4307870be)
 
-<img src="/images/Sparkify_.png" width="600">
+<img src="/ProjectPortfolio/images/Sparkify_.png" width="600">
+<img src="./images/Sparkify_.png" width="600">
+
+https://github.com/rabadzhiyski/ProjectPortfolio/blob/main/images/Sparkify_.png
 
 Customer churn is a very challenging area and it gives many opportunities for analyses. It was important to find a way to get a realistic probability for users who are prompt to churn based on some features like gender, location, workday, songs played, etc. With the help of several PySpark libraries I explored the data, engineered the most appropriate features, designed a machine learning pipeline and chose the most appropriate model for predicting churn. It is a classification task that required Logistic Regression, Random Forest Classifier or other classification model.
 
