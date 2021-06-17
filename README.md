@@ -5,7 +5,7 @@ Define what customer would churn from Sparkify's online services. The project us
 
 Customer churn is a very challenging area and it gives many opportunities for analyses. I used PySpark to load, transform data and build machine learning algorithm to predict Sparkify's users churn. It was important to find a way to get a realistic probability for users who are prompt to churn based on some features like gender, location, workday, songs played, etc. With the help of several PySpark libraries I explored the data, engineered the most appropriate features, designed a machine learning pipeline and chose the most appropriate model for predicting churn. It is a classification task that required Logistic Regression, Random Forest Classifier or other classification model.
 
-# [Project 2: Web Application with Heroku](https://github.com/rabadzhiyski/web_app)
+# [Project 2: Web Application on Heroku](https://github.com/rabadzhiyski/web_app)
 
 World Bank Data Dashboard of top 10 World Economies. Created a web-application hosted on Heroku that extracts, transforms and load data into a Dashboard.
 
