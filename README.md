@@ -25,7 +25,7 @@ Analyzing data for disaster response based on messages generated through differe
 
 The web application could be used during a disaster event (e.g. an earthquake or hurricane), to classify a disaster message into several categories,so that the appropriate aid agencies are notified.
 
-# [Project 4: Recommmendations with IBM](https://github.com/rabadzhiyski/recommendationsIBM)
+# [Project 4: Recommendations with IBM](https://github.com/rabadzhiyski/recommendationsIBM)
 I analyzed the interactions that users have with articles on the IBM Watson Studio platform, and made recommendations to them about new articles they will like.
 
 <img src="./images/recommendations.png" width="600">
@@ -48,7 +48,7 @@ The package is available on [PyPI](https://pypi.org/project/pm-tools/)
 <img src="./images/pm-tools.png" width="600">
 
 # [Project 6: StackOverflow Surveys Investigation](https://github.com/rabadzhiyski/StackOverflow_Survey_2011-2020)
-This is a project related to StackOverflow development survey of 2011 and 2012. With some exploratory data analyses we answer three questions:
+This is a project related to StackOverflow development survey of 2011 and 2020. With some exploratory data analyses we answer three questions:
  - What were the most popular languages in 2011 and now?
  - What were the top 10 countries in 2011 and now?
  - Did Linux and Mac OS win the fight against Microsoft?
