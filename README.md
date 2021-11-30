@@ -1,7 +1,7 @@
 # Projects
 
 # [Project 1: Predicting Customer Churn with Spark](https://github.com/rabadzhiyski/SparkProject)
-Define what customer would churn from Sparkify's online services. I used PySpark on IBM Watson cluster to engineer features and to build classification model to predict churn. [Blog post also available.](https://plamen-rabadzhiyski.medium.com/sparkify-make-your-customers-stay-e7a4307870be)
+Define what customer would churn from Sparkify's online services. I used PySpark on distirbuted cloud cluster to engineer features and to build classification model to predict churn. [Blog post also available.](https://plamen-rabadzhiyski.medium.com/sparkify-make-your-customers-stay-e7a4307870be)
 
 <img src="./images/Sparkify_.png" width="600">
 
